@@ -72,7 +72,7 @@ Ce script utilise `pyautogui` pour localiser et cliquer sur le bouton "Accepter"
 1. Assurez-vous que Python est installé sur votre système. Vous pouvez télécharger Python depuis [python.org](https://www.python.org/downloads/).
 2. Installez pip, le gestionnaire de packages pour Python.
 
-        Pour cela, ouvrez un terminal et entrez cette commande.
+    Pour cela, ouvrez un terminal et entrez cette commande.
 
     ```sh
     py get-pip.py
