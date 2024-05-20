@@ -51,7 +51,7 @@ This script uses `pyautogui` to locate and click the "Accept" button in the Leag
 
 ### Explanation ℹ️
 
-Once the script has started, it continuously looks for the "Accept" button in the League of Legends client. The script will never stop running until you press `Ctrl + C` in the terminal. This design allows the script to handle scenarios where a match is found but someone dodges the game, enabling it to accept the game again, infinitely.
+Once the script has started, it continuously looks for the "Accept" button in the League of Legends client. The script will never stop running until you press `Ctrl + C` in the terminal. This feature allows the script to handle scenarios where a match is found but someone dodges the game, enabling it to accept the game again, infinitely.
 
 🎮 Good luck and have fun ! But please respect yourself and don't pick Garen.
 
@@ -88,7 +88,7 @@ Ce script utilise `pyautogui` pour localiser et cliquer sur le bouton "Accepter"
 
 1. **Clonez le dépôt** :
 
-    Ouvrez un terminal avec des droits administratifs. Je recommande d'utiliser [Windows Terminal](https://apps.microsoft.com/detail/9n0dx20hk701?rtc=1&hl=fr-fr&gl=FR) pour une meilleure expérience, car ça peut parfois échouer avec l'invite de commande (cmd), et l'expérience utilisateur de Windows Terminal est meilleure que celle du PowerShell natif.
+    Ouvrez un terminal avec des droits d'administrateur. Je recommande d'utiliser [Windows Terminal](https://apps.microsoft.com/detail/9n0dx20hk701?rtc=1&hl=fr-fr&gl=FR) pour une meilleure expérience, car ça peut parfois échouer avec l'invite de commande (cmd), et l'expérience utilisateur de Windows Terminal est meilleure que celle du PowerShell natif.
 
     ```sh
     git clone https://github.com/kitsuiwebster/pylol.git
@@ -110,7 +110,7 @@ Ce script utilise `pyautogui` pour localiser et cliquer sur le bouton "Accepter"
 
 ### Explication ℹ️
 
-Une fois le script lancé, il recherche continuellement le bouton "Accepter" dans le client de League of Legends. Le script ne s'arrêtera jamais tant que vous n'appuyez pas sur `Ctrl + C` dans le terminal. Ce design permet au script de gérer des scénarios où une partie est trouvée mais quelqu'un esquive la partie, lui permettant d'accepter à nouveau la partie, indéfiniment.
+Une fois le script lancé, il recherche continuellement le bouton "Accepter" dans le client de League of Legends. Le script ne s'arrêtera jamais tant que vous n'appuyez pas sur `Ctrl + C` dans le terminal. Cette fonctionnalité permet au script de gérer des scénarios où une partie est trouvée mais quelqu'un esquive la partie, lui permettant d'accepter à nouveau la partie, indéfiniment.
 
 🎮 Bonne chance et amusez-vous bien ! Mais s'il vous plaît, respectez-vous et ne choisissez pas Garen.
 
