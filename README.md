@@ -29,7 +29,7 @@ This script uses `pyautogui` to locate and click the "Accept" button in the Leag
 
 1. **Clone the repository**:
 
-    Open a terminal with administrative rights. I recommend using [Windows Terminal](https://apps.microsoft.com/detail/9n0dx20hk701?rtc=1&hl=fr-fr&gl=FR) for a better experience, as it can sometimes fail with Command Prompt (cmd), and its UI is better than native PowerShell.
+    Open a terminal with administrative rights. I recommend using [Windows Terminal](https://apps.microsoft.com/detail/9n0dx20hk701?rtc=1&hl=fr-fr&gl=FR) for a better experience, as it can sometimes fail with Command Prompt (cmd), and its UX is better than native PowerShell.
 
     ```sh
     git clone https://github.com/kitsuiwebster/pylol.git
@@ -88,7 +88,7 @@ Ce script utilise `pyautogui` pour localiser et cliquer sur le bouton "Accepter"
 
 1. **Clonez le dépôt** :
 
-    Ouvrez un terminal avec des droits administratifs. Je recommande d'utiliser [Windows Terminal](https://apps.microsoft.com/detail/9n0dx20hk701?rtc=1&hl=fr-fr&gl=FR) pour une meilleure expérience, car il peut parfois échouer avec l'invite de commande (cmd), et son interface utilisateur est meilleure que celle de PowerShell natif.
+    Ouvrez un terminal avec des droits administratifs. Je recommande d'utiliser [Windows Terminal](https://apps.microsoft.com/detail/9n0dx20hk701?rtc=1&hl=fr-fr&gl=FR) pour une meilleure expérience, car ça peut parfois échouer avec l'invite de commande (cmd), et l'expérience utilisateur de Windows Terminal est meilleure que celle du PowerShell natif.
 
     ```sh
     git clone https://github.com/kitsuiwebster/pylol.git
