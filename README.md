@@ -48,7 +48,7 @@ This script uses `pyautogui` to locate and click the "Accept" button in the Leag
 1. **Run the script**:
 
     ```sh
-    python accept_game.py
+    python acceptgame.py
     ```
 
 ### Explanation ℹ️
@@ -109,7 +109,7 @@ Ce script utilise `pyautogui` pour localiser et cliquer sur le bouton "Accepter"
 1. **Exécutez le script** :
 
     ```sh
-    python accept_game.py
+    python acceptgame.py
     ```
 
 ### Explication ℹ️
