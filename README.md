@@ -24,7 +24,7 @@ This script uses `pyautogui` to locate and click the "Accept" button in the Leag
 4. Install `pyautogui` and `Pillow` (used by `pyautogui` for image processing). You can install these packages using pip:
 
     ```sh
-    pip install pyautogui Pillow
+    pip install pyautogui Pillow OpenCV
     ```
 
 ### Setup 💻
@@ -85,7 +85,7 @@ Ce script utilise `pyautogui` pour localiser et cliquer sur le bouton "Accepter"
 3. Installez `pyautogui` et `Pillow` (utilisé par `pyautogui` pour le traitement d'image). Vous pouvez installer ces packages en utilisant pip :
 
     ```sh
-    pip install pyautogui Pillow
+    pip install pyautogui Pillow OpenCV
     ```
 
 ### Configuration 💻
