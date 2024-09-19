@@ -13,13 +13,15 @@ This script uses `pyautogui` to locate and click the "Accept" button in the Leag
 1. Ensure Python is installed on your system. You can download Python from [python.org](https://www.python.org/downloads/).
 2. Install pip, the package installer for Python.
 
-    To proceed, open a terminal and run this command:
+    To proceed, download the instalation script there: https://bootstrap.pypa.io/get-pip.py
+    Then, navigate to the location of the file.
+    Then, open a terminal and run this command:
 
     ```sh
     py get-pip.py
     ```
 
-3. Install `pyautogui` and `Pillow` (used by `pyautogui` for image processing). You can install these packages using pip:
+4. Install `pyautogui` and `Pillow` (used by `pyautogui` for image processing). You can install these packages using pip:
 
     ```sh
     pip install pyautogui Pillow
@@ -72,7 +74,9 @@ Ce script utilise `pyautogui` pour localiser et cliquer sur le bouton "Accepter"
 1. Assurez-vous que Python est installé sur votre système. Vous pouvez télécharger Python depuis [python.org](https://www.python.org/downloads/).
 2. Installez pip, le gestionnaire de packages pour Python.
 
-    Pour cela, ouvrez un terminal et entrez cette commande.
+    Pour continuer, téléchargez le script d'installation ici : https://bootstrap.pypa.io/get-pip.py
+    Ensuite, naviguez jusqu'à l'emplacement du fichier.
+    Puis, ouvrez un terminal et exécutez cette commande :
 
     ```sh
     py get-pip.py
